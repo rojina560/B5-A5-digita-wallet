@@ -1,9 +1,11 @@
-# Payra Pay Digital Wallet 💳  
+#  Digital Wallet server backend 💳 
+-server link:https://b5-a5-digita-wallet.onrender.com/
+
 
 ## 🚀 Project Overview 
 A secure and scalable **digital wallet system** built with **TypeScript, Express, Mongoose, and REST APIs**, deployed on **Vercel**.  
  
-Payra Pay is a digital wallet solution that allows users to manage funds, send/receive money, and perform cash-in/out through agents.  
+ digital wallet is a  solution that allows users to manage funds, send/receive money, and perform cash-in/out through agents.  
 
 It also provides **admins** with full control over users, wallets, and transactions.  
 
@@ -84,8 +86,8 @@ It also provides **admins** with full control over users, wallets, and transacti
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/nabilsiddik/payra-pay.git
-cd payra-pay
+git clone https://github.com/rojina560/B5-A5-digita-wallet.git
+cd digital wallet
 
 # 2. Install dependencies
 npm install
