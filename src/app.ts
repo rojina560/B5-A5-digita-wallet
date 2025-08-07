@@ -17,7 +17,7 @@ app.use(passport.initialize())
 app.use('/api/v1', router)
 
 app.get('/', (req: Request, res: Response) => {
-  res.send('Server is running...');
+  res.send(' Digital Wallet Server is running...');
 })
 
 app.use(globalErrorHandler)
